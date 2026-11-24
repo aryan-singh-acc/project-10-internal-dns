@@ -1,0 +1,12 @@
+$TTL 604800
+@   IN  SOA ns1.aryanlab.test. admin.aryanlab.test. (
+        2026112001
+        604800
+        86400
+        2419200
+        604800
+)
+
+@       IN  NS  ns1.aryanlab.test.
+ns1     IN  A   10.5.1.49
+web     IN  A   10.5.1.49

@@ -1,0 +1,11 @@
+.terraform/
+*.tfstate
+*.tfstate.*
+*.tfvars
+.env
+*.pem
+*.key
+.aws/
+.DS_Store
+*.log
+crash.log
